@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minhas Viagens </string>
+    <string name="login">Acessar</string>
+    <string name="please">Por favor acesse já para continuar</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="sign_in">ENTRAR</string>
+    <string name="no_account">Não tem uma conta?</string>
+    <string name="sign_up">Cadastre-se</string>
+</resources>
